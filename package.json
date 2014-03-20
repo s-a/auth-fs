@@ -1,5 +1,5 @@
 {
-  "name": "npm",
+  "name": "auth-fs",
   "version": "0.0.1",
   "description": "auth based on filesystem",
   "main": "index.js",
