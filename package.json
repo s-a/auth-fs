@@ -1,0 +1,29 @@
+{
+  "name": "npm",
+  "version": "0.0.1",
+  "description": "auth based on filesystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/s-a/auth-fs.git"
+  },
+  "keywords": [
+    "auth"
+  ],
+  "author": "s-a",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/s-a/auth-fs/issues"
+  },
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "mocha":"",
+    "should":""
+  },
+  "homepage": "https://github.com/s-a/auth-fs"
+}
